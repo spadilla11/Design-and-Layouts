@@ -65,7 +65,7 @@ hobbies, movies{
     color: wheat;
 }
 
-.nav-bar ul{
+.nav-bar .un-list{
     background-color: rgb(86, 40, 19);
     font-size: 170%;
     font-family: 'sans-serif';
@@ -75,7 +75,7 @@ hobbies, movies{
 
 }
 
-.nav-bar a{
+.nav-bar .a{
     display: block;
     color: beige;
     padding: 8px;
@@ -85,7 +85,7 @@ hobbies, movies{
 
 #mov-hob{
   display: flex;
-  align-items: flex-start; /* align to top */
+  align-items: flex-start;
 }
 
 
